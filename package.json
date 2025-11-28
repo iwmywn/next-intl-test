@@ -12,26 +12,26 @@
     "i18n:check": "i18n-check --locales messages --source vi --unused actions app components hooks lib --format next-intl"
   },
   "dependencies": {
-    "@heroicons/react": "^2.2.0",
-    "@radix-ui/react-select": "^2.2.6",
-    "clsx": "^2.1.1",
-    "date-fns": "^4.1.0",
-    "next": "16.0.1",
-    "next-intl": "^4.5.0",
+    "@heroicons/react": "2.2.0",
+    "@radix-ui/react-select": "2.2.6",
+    "clsx": "2.1.1",
+    "date-fns": "4.1.0",
+    "next": "16.0.5",
+    "next-intl": "4.5.6",
     "react": "19.2.0",
     "react-dom": "19.2.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.2.0",
-    "@lingual/i18n-check": "^0.8.12",
-    "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
+    "@biomejs/biome": "2.3.8",
+    "@lingual/i18n-check": "0.8.14",
+    "@tailwindcss/postcss": "4.1.17",
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
     "babel-plugin-react-compiler": "1.0.0",
-    "prettier": "^3.6.2",
-    "prettier-plugin-sort-json": "^4.1.1",
-    "tailwindcss": "^4",
-    "typescript": "^5"
+    "prettier": "3.7.1",
+    "prettier-plugin-sort-json": "4.1.1",
+    "tailwindcss": "4.1.17",
+    "typescript": "5.9.3"
   }
 }
